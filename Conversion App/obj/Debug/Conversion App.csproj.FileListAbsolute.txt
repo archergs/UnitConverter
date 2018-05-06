@@ -1,0 +1,25 @@
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Conversion App.exe.config
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Conversion App.exe
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Conversion App.pdb
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion App.csprojResolveAssemblyReference.cache
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion_App.Form1.resources
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion_App.Properties.Resources.resources
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion App.csproj.GenerateResource.cache
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion App.csproj.CoreCompileInputs.cache
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion App.exe
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion App.pdb
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Mono.Cecil.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\NuGet.Squirrel.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\SharpCompress.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Splat.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Squirrel.dll
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Splat.pdb
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\bin\Debug\Squirrel.pdb
+C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Debug\Conversion App.csproj.CopyComplete
