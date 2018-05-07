@@ -23,3 +23,28 @@ C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Rel
 C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Release\Conversion App.csproj.CopyComplete
 C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Release\Conversion App.exe
 C:\Users\archer.gardiner-sher\source\repos\Conversion App\Conversion App\obj\Release\Conversion App.pdb
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Conversion App.exe.config
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Conversion App.exe
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Conversion App.pdb
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\DeltaCompressionDotNet.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Mono.Cecil.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\NuGet.Squirrel.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\SharpCompress.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Splat.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Squirrel.dll
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\NuGet.Squirrel.pdb
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Splat.pdb
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\bin\Release\Squirrel.pdb
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.csprojResolveAssemblyReference.cache
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion_App.Form1.resources
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion_App.Properties.Resources.resources
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.csproj.GenerateResource.cache
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.csproj.CoreCompileInputs.cache
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.csproj.CopyComplete
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.exe
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.pdb
