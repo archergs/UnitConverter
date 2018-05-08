@@ -8,9 +8,9 @@ Visual Studio.
 
 # Future Plans
 I have several future plans, but don't expect an ETA.
-      1. Option to round the output
-      2. Auto-Updater
-      3. More units of measure (Currently implementing some Imperial units)
+1. Option to round the output
+2. Auto-Updater
+3. More units of measure (Currently implementing some Imperial units)
 This can be quite time consuming, so implementing any new unit takes a while.
 
 # Feedback
