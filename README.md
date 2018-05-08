@@ -5,3 +5,13 @@ measurement. Updates will be coming soon, with an automatic updater, as well as 
 # How To Install
 You can find the first release on the releases tab on Github. Otherwise, download the source code and compile it manually with
 Visual Studio.
+
+# Future Plans
+I have several future plans, but don't expect an ETA.
+      ⋅⋅⋅Option to round the output
+      ⋅⋅⋅Auto-Updater
+      ⋅⋅⋅More units of measure (Currently implementing some Imperial units)
+This can be quite time consuming, so implementing any new unit takes a while.
+
+# Feedback
+**Constructive** feedback is welcome! Leave it in the issues section.
