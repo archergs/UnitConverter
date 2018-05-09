@@ -48,3 +48,4 @@ C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release
 C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.csproj.CopyComplete
 C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.exe
 C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion App.pdb
+C:\Users\archer.gardiner-sher\Documents\UnitConverter\Conversion App\obj\Release\Conversion_App.AboutBox1.resources

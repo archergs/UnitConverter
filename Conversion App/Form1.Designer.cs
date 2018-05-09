@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.dropDown = new System.Windows.Forms.ComboBox();
             this.dropDownTwo = new System.Windows.Forms.ComboBox();
             this.convertButton = new System.Windows.Forms.Button();
@@ -39,6 +40,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.updateButton = new System.Windows.Forms.Button();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // dropDown
@@ -47,10 +49,16 @@
             this.dropDown.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dropDown.FormattingEnabled = true;
             this.dropDown.Items.AddRange(new object[] {
-            "mm",
-            "cm",
-            "m",
-            "km"});
+            "--Metric--",
+            "Millimetre",
+            "Centimetre",
+            "Metre",
+            "Kilometre",
+            "--Imperial--",
+            "Inches",
+            "Feet",
+            "Yards",
+            "Miles"});
             this.dropDown.Location = new System.Drawing.Point(41, 176);
             this.dropDown.Name = "dropDown";
             this.dropDown.Size = new System.Drawing.Size(151, 26);
@@ -63,10 +71,16 @@
             this.dropDownTwo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dropDownTwo.FormattingEnabled = true;
             this.dropDownTwo.Items.AddRange(new object[] {
-            "mm",
-            "cm",
-            "m",
-            "km"});
+            "--Metric--",
+            "Millimetre",
+            "Centimetre",
+            "Metre",
+            "Kilometre",
+            "--Imperial--",
+            "Inches",
+            "Feet",
+            "Yards",
+            "Miles"});
             this.dropDownTwo.Location = new System.Drawing.Point(337, 176);
             this.dropDownTwo.Name = "dropDownTwo";
             this.dropDownTwo.Size = new System.Drawing.Size(151, 26);
@@ -90,9 +104,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(52, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(436, 32);
+            this.label1.Size = new System.Drawing.Size(442, 32);
             this.label1.TabIndex = 3;
-            this.label1.Text = "The Ultimate Convertion Program";
+            this.label1.Text = "The Ultimate Conversion Program";
             // 
             // label2
             // 
@@ -116,10 +130,10 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(173, 303);
+            this.textBox2.Location = new System.Drawing.Point(155, 308);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(174, 38);
+            this.textBox2.Size = new System.Drawing.Size(205, 38);
             this.textBox2.TabIndex = 6;
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
@@ -162,11 +176,23 @@
             this.updateButton.Text = "Check For Update";
             this.updateButton.UseVisualStyleBackColor = true;
             // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Location = new System.Drawing.Point(12, 348);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(35, 13);
+            this.linkLabel1.TabIndex = 11;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "About";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(541, 370);
+            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.updateButton);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -179,6 +205,7 @@
             this.Controls.Add(this.dropDownTwo);
             this.Controls.Add(this.dropDown);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "The Ultimate Converter";
             this.ResumeLayout(false);
@@ -198,6 +225,7 @@
         public System.Windows.Forms.ComboBox dropDown;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button updateButton;
+        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }
 
